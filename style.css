@@ -960,7 +960,7 @@ body:not(.edit) .slider-indicators {
 .bck-box-1 .bck-title:before {
     content: " ";
     position: absolute;
-    padding: 25px;
+    padding: 20px;
     background: url(/useruploads/r/a/104948116/activity_other_imported/icono_casa_243363.png);
     background-repeat: no-repeat;
     background-size: contain;
