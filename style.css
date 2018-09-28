@@ -959,9 +959,13 @@ body:not(.edit) .slider-indicators {
 
 .bck-box-1 .bck-title:before {
     content: " ";
-    padding: 30px;
-    background: url(/useruploads/r/a/104807446/activity_other_imported/icono_casa.png);
+    position: absolute;
+    padding: 25px;
+    background: url(/useruploads/r/a/104948116/activity_other_imported/icono_casa_243363.png);
     background-repeat: no-repeat;
+    background-size: contain;
+    top: -10px;
+    left: -22px;
 }
 
 .bck-box.bck-box-1 {
@@ -981,6 +985,9 @@ body:not(.edit) .slider-indicators {
     border-bottom: 2px solid;
     border-color: #fff;
 
+}
+.bck-box .bck-box-1 .bck-content{
+        background: #fff;
 }
 
 
