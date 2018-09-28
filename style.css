@@ -903,14 +903,14 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
-    content: counter(bck-li-counter, upper-alpha)'';
-    margin-top: 1px;
-    padding-right: 10px;
-    color: #262e2a;
+    content: counter(bck-li-counter, upper-alpha)'.';
+    color: #000;
     font-size: 1.8rem;
     font-weight: 600;
     text-align: right;
+    right: 25px;
 }
+
 /**/
 
 /*BOXES*/
@@ -952,7 +952,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-box .bck-content {
     text-align: justify;
-    padding: 10px 14px 10px 63px;
+    padding: 10px;
 }
 
 /*CAJA1*/
