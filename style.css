@@ -134,14 +134,15 @@ body {
     background-color: transparent;
 }
 
+
 /*INDICE LATERAL*/
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #book-index #indice .units ul li.active a {
-    background: #b40b11;
+    background: #31A2C7;
 }
 
 
 #book-index .col-main {
-        background: #b40b11;
+        background: #31A2C7;
 }
 
 
@@ -240,7 +241,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
     color: #fff;
-    background: #e83535;
+    background: #31a2c75c;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a,
@@ -252,7 +253,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
-    background: #980d0d;
+    background: #aaa;
 }
 
 #indice .unit-content .actividades .item.nivel_6 .title,
@@ -744,7 +745,7 @@ body:not(.edit) .slider-indicators {
 #actividad .workspace.ordenar .js-rank-item ul li:before {
     height: 6px;
     width: 6px;
-    background-color: #3a3636;
+    background-color: #fff;
     color: #333;
     border-radius: 50%;
 }
