@@ -231,7 +231,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 }
 
 #book-index #indice .unit-content .actividades .item {
-    background: #ebcece;
+    background: #87bacc;
     margin: 0px -20px 2px -20px;
     padding-left: 25px;
     opacity: 1;
@@ -253,7 +253,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover a
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
-    background: #aaa;
+    background: #ccc;
 }
 
 #indice .unit-content .actividades .item.nivel_6 .title,
