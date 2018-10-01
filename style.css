@@ -199,13 +199,13 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 
 #indice .units ul li.active:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-    background: #bd0911;
+    background: #31A2C7;
 }
 
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
-    background: #8c0c12;
+    background: #31a2c775;
 }
 
 #book-index #indice .unit-content a,
@@ -1591,7 +1591,8 @@ td, th {
 }
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
-    background-color: #bd0911;
+    background-color: #31A2C7;
+    border-radius: 0;
 }
 
 .btn-primary[disabled], .btn-primary[disabled]:focus {
