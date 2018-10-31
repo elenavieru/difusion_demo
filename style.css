@@ -1795,7 +1795,7 @@ td, th {
 /*Dropdown 1*/
 
 .bck-dropdown.bck-dropdown-1 {
-    background-color: #bf0811;
+    background-color: #9D9D9C;
     border: 1px solid #DDDDDD;
     margin-top: 10px;
     -webkit-border-radius: 5px;
@@ -1809,7 +1809,7 @@ td, th {
 }
 
 .bck-dropdown-1 .bck-dropdown-icon {
-    background-color: #bf0811;
+    background-color: #9D9D9C;
     width: 25px;
     height: 10px;
 }
