@@ -700,8 +700,9 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-1 {
     color: #00A4CC;
-    border-bottom: 3px solid #00A4CC;
+    border-bottom: 7px solid #00A4CC;
     font-size: 2.3rem;
+    padding-bottom: 5px;
 }
 
 
@@ -1004,8 +1005,8 @@ body:not(.edit) .slider-indicators {
 /*CAJA2*/
 
 .bck-box.bck-box-2 {
-    background: #fff;
-    border: 2px solid #b9d3e4;
+    background: transparent;
+    border: 2px dotted #9D9D9C;
     text-align: left;
     margin-top: 20px;
 }
@@ -1018,7 +1019,7 @@ body:not(.edit) .slider-indicators {
 .bck-box.bck-box-2 .bck-title {
     padding: 10px 25px;
     border: 0;
-    color: #9BCB20;
+    color: #9D9D9C;
     font-size: 1.8rem;
     font-weight: bold;
 }
@@ -1028,12 +1029,14 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-2 .bck-title:before {
-    background-image: none;
-    font-family: 'FontAwesome';
-    content: '\f0a9';
-    margin: 0 5px 0 0px;
-    color: #9ac61e;
-    margin-right: 10px;
+    content: " ";
+    position: absolute;
+    padding: 20px;
+    background: url(imagenes_difusion/img_cafeteria.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: -10px;
+    left: -22px;
 }
 
 #actividad .content .bck-box.bck-box-2 .header.bck-title .title {
