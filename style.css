@@ -756,7 +756,7 @@ body:not(.edit) .slider-indicators {
 #actividad .workspace.ordenar .js-rank-item ul li:before {
     height: 6px;
     width: 6px;
-    background-color: #fff;
+    background-color: #333;
     color: #333;
     border-radius: 50%;
 }
@@ -872,13 +872,12 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     content: counter(bck-li-counter);
+    position: relative;
     color: #333;
     font-weight: bold;
     margin-top: 0;
-    padding-right: 10px;
-    text-align: right;
-    position:absolute;
-    left:-10px;
+    text-align: left;
+    left:-5px;
 
 }
 
