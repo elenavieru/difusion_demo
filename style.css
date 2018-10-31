@@ -67,6 +67,11 @@ difusion_31
 
 /*General */
 
+#actividad a{
+    background-color: transparent;
+    color: #333333d6;
+}
+
 
 
 .bck-i-fullscreen figcaption {
@@ -1997,4 +2002,6 @@ td, th {
     }
 
 }
+
+
 
