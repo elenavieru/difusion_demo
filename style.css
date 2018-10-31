@@ -1,3 +1,5 @@
+difusion_31
+
 
 
 /* Fonts */
@@ -689,8 +691,8 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-title-1 {
-    color: #000;
-    border-bottom: 3px solid #000;
+    color: #00A4CC;
+    border-bottom: 3px solid #00A4CC;
     font-size: 2.3rem;
 }
 
@@ -960,7 +962,7 @@ body:not(.edit) .slider-indicators {
     content: " ";
     position: absolute;
     padding: 20px;
-    background: url(/useruploads/r/a/104948116/activity_other_imported/icono_casa_243363.png);
+    background: url(imagenes_difusion/icono_casaazul.png);
     background-repeat: no-repeat;
     background-size: contain;
     top: -10px;
@@ -970,11 +972,11 @@ body:not(.edit) .slider-indicators {
 .bck-box.bck-box-1 {
     min-height: 80px;
     margin-top: 20px;
-    border: 3px solid #31A2C7;
+    border: 3px solid #00A4CC;
 }
 
 .bck-box-1 .bck-title {
-    color: #000;
+    color: #00A4CC;
     font-size: 2rem;
     font-weight: bold;
     text-align: left;
@@ -1978,4 +1980,6 @@ td, th {
     }
 
 }
+
+
 
