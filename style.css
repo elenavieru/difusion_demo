@@ -702,9 +702,9 @@ body:not(.edit) .slider-indicators {
 
 .bck-title-1 {
     color: #00A4CC;
-    border-bottom: 7px solid #00A4CC;
     font-size: 2.3rem;
     padding-bottom: 5px;
+    margin-left: 25px;
 }
 
 
