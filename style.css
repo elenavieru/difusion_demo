@@ -70,11 +70,6 @@
     color: #333333d6;
 }
 
-.bck-i-fullscreen figcaption {
-    margin-top: -20px;
-    background: transparent;
-}
-
 body {
     height: 100vh;
     font-size: 1.8rem;
@@ -646,11 +641,12 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-i-fullscreen figcaption {
-    border-bottom: 2px solid black;
-    -webkit-border-radius: 5px;
-       -moz-border-radius: 5px;
-            border-radius: 5px;
-    background: #FDFDFD;
+    margin-top: -20px;
+    border-bottom: 0;
+    -webkit-border-radius: 0px;
+       -moz-border-radius: 0px;
+            border-radius: 0px;
+    background: transparent;
 }
 
 
