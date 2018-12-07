@@ -1919,7 +1919,7 @@ td, th {
 .bck-dropdown-3 .bck-dropdown-titulo:before {
     content: " ";
     position: relative;
-    top: 13px
+    top: 13px;
     left: 0;
     padding: 22px;
     margin-right: 20px;
