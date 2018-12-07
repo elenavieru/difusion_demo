@@ -864,17 +864,15 @@ body:not(.edit) .slider-indicators {
     z-index: 0;
 }
 
-#actividad .content .cke_contents .bck-ol-2 li:before,
-#actividad .content .texto_curso ol.bck-ol-2 li:before,
-#actividad .popover-content ol.bck-ol-2 li:before,
-#actividad .content .workspace ul li ol.bck-ol-2 li:before {
+#actividad .content .cke_contents .bck-ol-2 li:before, #actividad .content .texto_curso ol.bck-ol-2 li:before, #actividad .popover-content ol.bck-ol-2 li:before, #actividad .content .workspace ul li ol.bck-ol-2 li:before {
     content: counter(bck-li-counter);
-    position: relative;
+    position: absolute;
     color: #333;
-    font-weight: bold;
+    font-weight: 600;
     margin-top: 0;
-    text-align: left;
-    left:-5px;
+    text-align: right;
+    left:-30px;
+    width: 28px;
 
 }
 
