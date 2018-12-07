@@ -1,5 +1,3 @@
-difusion_31
-
 
 
 /* Fonts */
@@ -72,8 +70,6 @@ difusion_31
     color: #333333d6;
 }
 
-
-
 .bck-i-fullscreen figcaption {
     margin-top: -20px;
     background: transparent;
@@ -81,8 +77,9 @@ difusion_31
 
 body {
     height: 100vh;
-    font-size: 1.7rem;
+    font-size: 1.8rem;
     font-weight: 300;
+    text-align: left;
 }
 
 .body_clase .content-wrapper,
