@@ -1646,6 +1646,8 @@ td, th {
 
 /**/
 
+
+
 /* Seccion Actividades */
 #actividad .carousel-inner .actividades .item-container {
     background-color: #FFF;
@@ -1682,6 +1684,15 @@ td, th {
 }
 
 /**/
+
+/*rojo*/
+
+#actividad .content .rojo .header .title h3{
+    background: #00A4CC;
+}
+
+/**/
+
 
 /* Seccion primera */
 #actividad .carousel-inner .primera {
