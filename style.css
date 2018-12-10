@@ -1702,6 +1702,32 @@ td, th {
 /**/
 
 
+/*verde*/
+
+#actividad .content .verde .header .title h3{
+   background: #00943C;
+}
+
+.verde .bck-title-1{
+   color: #00943C;
+}
+
+.verde .bck-box.bck-box-1{
+   border: 3px solid #00943C;
+}
+
+.verde .bck-box-1 .bck-title{
+   color:#00943C; 
+}
+
+.verde .bck-box-1 .bck-title:before{
+   background: url(imagenes_difusion/icono_casaverde.png);
+   background-size: contain;
+}
+
+/**/
+
+
 /* Seccion primera */
 #actividad .carousel-inner .primera {
     background: -webkit-gradient(linear, left top, right bottom, from(#d0cae6), to(#6e6097));
