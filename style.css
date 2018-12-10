@@ -1699,8 +1699,12 @@ td, th {
    border: 3px solid #D73534;
 }
 
-.bck-box-1 .bck-title{
+.rojo .bck-box-1 .bck-title{
    color: #D73534; 
+}
+
+.rojo .bck-box-1 .bck-title:before{
+   background: url(imagenes_difusion/icono_casaroja.png);
 }
 
 /**/
