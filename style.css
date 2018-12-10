@@ -987,7 +987,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-box.bck-box-2 {
     background: transparent;
-    border: 2px dotted #9D9D9C;
+    border: 3px dotted #9D9D9C;
     text-align: left;
     margin-top: 20px;
 }
