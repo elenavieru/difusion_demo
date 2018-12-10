@@ -1688,8 +1688,13 @@ td, th {
 /*rojo*/
 
 #actividad .content .rojo .header .title h3{
-    background: #D73534;
+   background: #D73534;
 }
+
+.rojo .bck-title-1{
+   color: #D73534;
+}
+
 
 /**/
 
