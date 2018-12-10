@@ -652,11 +652,6 @@ body:not(.edit) .slider-indicators {
 
 /*Icono audio*/
 
-#actividad .player.audio:before {
-    content: "\f025";
-    font-family: "fontawesome";
-}
-
 
 #actividad .player.audio {
     background-image: url(imagenes_difusion/img_audio.png);
@@ -665,7 +660,7 @@ body:not(.edit) .slider-indicators {
     -o-background-size: 100%;
     background-size: 100%;
     background-position: 0;
-    background-color: #9a999e;
+    background-color: transparent;
     color: #fff;
 }
 
