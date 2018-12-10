@@ -1695,6 +1695,13 @@ td, th {
    color: #D73534;
 }
 
+.rojo .bck-box.bck-box-1{
+   border: 3px solid #D73534;
+}
+
+.bck-box-1 .bck-title{
+   color: #D73534; 
+}
 
 /**/
 
@@ -1808,9 +1815,6 @@ td, th {
     background-color: #9D9D9C;
     border: 1px solid #DDDDDD;
     margin-top: 10px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
 }
 
 .bck-dropdown-1 .bck-dropdown-button {
