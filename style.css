@@ -1038,7 +1038,7 @@ body:not(.edit) .slider-indicators {
 /*CAJA3*/
 
 .bck-box.bck-box-3 {
-    background: transparent;
+    background: #fff;
     border: 3px dotted #9D9D9C;
     text-align: left;
 }
@@ -1055,6 +1055,7 @@ body:not(.edit) .slider-indicators {
     color: #9D9D9C;
     font-size: 1.8rem;
     font-weight: bold;
+    background: #fff;
 }
 
 .bck-box-3 .bck-title:before {
