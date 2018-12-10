@@ -995,6 +995,7 @@ body:not(.edit) .slider-indicators {
 .bck-box.bck-box-2 .bck-content {
     border: 0;
     padding: 10px 25px;
+    background: #fff;   
 }
 
 .bck-box.bck-box-2 .bck-title {
@@ -1003,6 +1004,7 @@ body:not(.edit) .slider-indicators {
     color: #9D9D9C;
     font-size: 1.8rem;
     font-weight: bold;
+    background: #fff;
 }
 
 .bck-box.bck-box-2 .bck-title p {
