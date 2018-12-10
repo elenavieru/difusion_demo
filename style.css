@@ -1705,6 +1705,7 @@ td, th {
 
 .rojo .bck-box-1 .bck-title:before{
    background: url(imagenes_difusion/icono_casaroja.png);
+   background-size: contain;
 }
 
 /**/
