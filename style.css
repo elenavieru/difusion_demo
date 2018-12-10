@@ -1930,6 +1930,58 @@ td, th {
     max-height: 800%;
 }
 
+
+/*Dropdown 4*/
+
+.bck-dropdown.bck-dropdown-4 {
+    background-color: #00A4CC;
+    margin-top: 10px;
+}
+
+.bck-dropdown-4 .bck-dropdown-button {
+    margin-top: 0px;
+    font-size: 1.2rem;
+}
+
+.bck-dropdown-4 .bck-dropdown-icon {
+    background-color: transparent;
+    width: 35px;
+    height: 10px;
+    float: right;
+}
+
+.bck-dropdown-4 .bck-dropdown-icon > .fa {
+    border: 0px solid white;
+}
+
+.bck-dropdown-4 .fa-chevron-up:before, .bck-dropdown-4 .fa-chevron-down:before {
+    font-size: 1.8rem;
+}
+
+.bck-dropdown-4 .bck-dropdown-titulo {
+    font-size: 1.8rem;
+    padding-left: 8px;
+    font-weight: 800;
+}
+
+.bck-dropdown-4 .bck-dropdown-titulo:before {
+    content: " ";
+    position: relative;
+    top: 13px;
+    left: 0;
+    padding: 22px;
+    margin-right: 20px;
+    background-size: contain;
+    background-image: url(imagenes_difusion/img_casablanca.png);
+    background-repeat: no-repeat;
+}
+
+.bck-dropdown-4 .bck-dropdown-content {
+    background-color: #D1E3F0;
+    padding-left: 17px;
+    max-height: 800%;
+}
+
 /**/
 
 /*Activities Dropdown*/
