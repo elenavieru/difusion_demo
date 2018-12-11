@@ -1136,7 +1136,7 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-4 {
-    background: transparent;
+    background: #fff;
     border: 3px dotted #9D9D9C;
     text-align: left;
 }
@@ -1145,11 +1145,20 @@ body:not(.edit) .slider-indicators {
     content: " ";
     position: absolute;
     padding: 24px;
-    background: url(imagenes_difusion/img_engranaje.jpg);
+    background: url(imagenes_difusion/img_engranaje.png);
     background-repeat: no-repeat;
     background-size: contain;
     top: -10px;
     left: -22px;
+}
+
+.bck-box-5 .bck-box-4 .bck-title {
+    padding: 10px 25px;
+    border: 0px;
+    color: #9D9D9C;
+    background: #fff;
+    font-size: 1.8rem;
+    font-weight: bold;
 }
 
 
@@ -2197,6 +2206,3 @@ td, th {
     }
 
 }
-
-
-
