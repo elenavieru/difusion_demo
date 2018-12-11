@@ -65,6 +65,11 @@
 
 /*General */
 
+/*video*/
+.vjs-poster{
+    background-color: #fff;
+}
+
 #actividad a{
     background-color: transparent;
     color: #333333d6;
