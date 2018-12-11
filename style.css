@@ -1753,22 +1753,9 @@ td, th {
     color: #fff;
     font-size: 2.1rem;
     font-weight: bold;
-    background: #00A4CC;
+    background: #D73534;
     padding: 12px;
     padding-left: 25px;
-}
-
-
-.rojo .bck-title-preparate:before{
-    content: " ";
-    position: relative;
-    top: 15px;
-    left: 0;
-    padding: 20px;
-    margin-right: 10px;
-    background-size: contain;
-    background-image: url(imagenes_difusion/img_casablanca.png);
-    background-repeat: no-repeat;
 }
 
 /**/
