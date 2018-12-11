@@ -965,21 +965,20 @@ body:not(.edit) .slider-indicators {
 
 .bck-box-1 .bck-title:before {
     content: " ";
-    position: relative;
+    position: absolute;
     padding: 20px;
-    margin-right: 20px;
     background-image: url(imagenes_difusion/img_multi.png);
     background-repeat: no-repeat;
     background-size: contain;
-    top: 15px;
-    left: 0px;
+    top: 10px;
+    left: 17px;
 }
 
 .bck-box .bck-box-1 {
     min-height: 80px;
     margin-top: 20px;
     background: #E5E5E5;
-    padding: 15px
+    padding: 15px;
 }
 
 .bck-box-1 .bck-title {
@@ -989,10 +988,8 @@ body:not(.edit) .slider-indicators {
     text-align: left;
     background-color: #808080;
     padding: 10px;
-    padding-left: 50px;
+    padding-left: 70px;
 }
-
-
 
 /*CAJA2*/
 
