@@ -1791,6 +1791,15 @@ td, th {
 /**/
 
 
+/*NEGRO*/
+
+#actividad .content .negro .header .title h3{
+   background: #333;
+}
+
+/**/
+
+
 /* Seccion primera */
 #actividad .carousel-inner .primera {
     background: -webkit-gradient(linear, left top, right bottom, from(#d0cae6), to(#6e6097));
@@ -2206,3 +2215,6 @@ td, th {
     }
 
 }
+
+
+
