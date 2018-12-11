@@ -965,13 +965,14 @@ body:not(.edit) .slider-indicators {
 
 .bck-box-1 .bck-title:before {
     content: " ";
-    position: absolute;
+    position: relative;
     padding: 20px;
-    background: url(imagenes_difusion/icono_casaazul.png);
+    margin-right: 20px  
+    background-image: url(imagenes_difusion/img_multi.png);
     background-repeat: no-repeat;
     background-size: contain;
-    top: -10px;
-    left: -22px;
+    top: 15px;
+    left: 0px;
 }
 
 .bck-box.bck-box-1 {
@@ -981,13 +982,13 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box-1 .bck-title {
-    color: #00A4CC;
+    color: #fff;
     font-size: 2rem;
     font-weight: bold;
     text-align: left;
-    background-color: #fff;
+    background-color: #808080;
     padding: 10px;
-    padding-left: 30px;
+    padding-left: 50px;
     border-bottom: 2px solid;
     border-color: #fff;
 
