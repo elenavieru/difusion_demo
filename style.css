@@ -989,12 +989,10 @@ body:not(.edit) .slider-indicators {
     background-color: #808080;
     padding: 10px;
     padding-left: 50px;
-    border-bottom: 2px solid;
-    border-color: #fff;
-
 }
+
 .bck-box-1 .bck-content{
-        background: #fff;
+    background: #E5E5E5;
 }
 
 
