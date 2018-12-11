@@ -1758,6 +1758,13 @@ td, th {
     padding-left: 25px;
 }
 
+.rojo .bck-box.bck-box-5 .bck-content {
+    padding: 10px;
+    background-color: #d7353430;
+    top: -20px;
+}
+
+
 /**/
 
 
