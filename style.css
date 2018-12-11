@@ -1753,7 +1753,7 @@ td, th {
     padding-left: 25px;
 }
 
-.rojo .bck-box.bck-box-5 .bck-content {
+.rojo .bck-box.bck-box-5{
     padding: 10px;
     background-color: #d7353430;
     top: -20px;
@@ -2223,3 +2223,6 @@ td, th {
     }
 
 }
+
+
+
