@@ -1170,7 +1170,7 @@ body:not(.edit) .slider-indicators {
     text-align: center;
 }
 
-.bck-box.bck-box-5 .bck-content {
+.bck-box.bck-box-5 {
     padding: 10px;
     background-color: #D1E3F0;
     top: -20px;
@@ -2197,3 +2197,6 @@ td, th {
     }
 
 }
+
+
+
