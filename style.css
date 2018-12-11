@@ -1799,6 +1799,14 @@ td, th {
 
 /**/
 
+/*naranja*/
+
+#actividad .content .naranja .header .title h3{
+   background: #E07C3E;
+}
+
+/**/
+
 
 /* Seccion primera */
 #actividad .carousel-inner .primera {
