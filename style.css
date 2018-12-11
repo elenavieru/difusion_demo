@@ -989,9 +989,8 @@ body:not(.edit) .slider-indicators {
     padding-left: 70px;
 }
 
-.bck-box-1 .bck-content {
+.bck-box-1{
     background: #E5E5E5;
-    padding: 15px;
 }
 
 
