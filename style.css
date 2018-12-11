@@ -676,16 +676,35 @@ body:not(.edit) .slider-indicators {
 }
 
 /*título genérico*/
+
 .bck-title {
     color: #211915;
     font-size: 2.1rem;
     font-weight: bold;
 }
 
-.bck-title-intro {
-    font-size: 2.8rem;
-    color: #E07C3E;
+.bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #00A4CC;
+    padding: 12px;
+    padding-left: 50px;
 }
+
+
+.bck-title-preparate:before{
+    content: " ";
+    position: relative;
+    top: 13px;
+    left: 0;
+    padding: 22px;
+    margin-right: 20px;
+    background-size: contain;
+    background-image: url(imagenes_difusion/img_casablanca.png);
+    background-repeat: no-repeat;
+}
+
 
 .bck-title-1 {
     color: #00A4CC;
@@ -2143,3 +2162,6 @@ td, th {
     }
 
 }
+
+
+
