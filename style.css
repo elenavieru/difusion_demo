@@ -977,8 +977,6 @@ body:not(.edit) .slider-indicators {
 .bck-box .bck-box-1 {
     min-height: 80px;
     margin-top: 20px;
-    background: #E5E5E5;
-    padding: 15px;
 }
 
 .bck-box-1 .bck-title {
@@ -991,7 +989,7 @@ body:not(.edit) .slider-indicators {
     padding-left: 70px;
 }
 
-.bck-box-1 {
+.bck-box-1 .bck-content {
     background: #E5E5E5;
     padding: 15px;
 }
