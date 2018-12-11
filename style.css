@@ -967,7 +967,7 @@ body:not(.edit) .slider-indicators {
     content: " ";
     position: relative;
     padding: 20px;
-    margin-right: 20px  
+    margin-right: 20px;
     background-image: url(imagenes_difusion/img_multi.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -975,9 +975,11 @@ body:not(.edit) .slider-indicators {
     left: 0px;
 }
 
-.bck-box.bck-box-1 {
+.bck-box .bck-box-1 {
     min-height: 80px;
     margin-top: 20px;
+    background: #E5E5E5;
+    padding: 15px
 }
 
 .bck-box-1 .bck-title {
@@ -988,10 +990,6 @@ body:not(.edit) .slider-indicators {
     background-color: #808080;
     padding: 10px;
     padding-left: 50px;
-}
-
-.bck-box-1 {
-    background: #E5E5E5;
 }
 
 
