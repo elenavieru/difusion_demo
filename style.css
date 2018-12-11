@@ -1135,15 +1135,11 @@ body:not(.edit) .slider-indicators {
     background-color: #bf0811;
     padding: 10px;
     text-align: center;
-   
-
 }
 
 .bck-box.bck-box-5 .bck-content {
     padding: 10px;
-    background-color: #fff;
-    border: 2px solid;
-    border-color: #bf0811;
+    background-color: #D1E3F0;
 }
 
 
@@ -2162,3 +2158,6 @@ td, th {
     }
 
 }
+
+
+
