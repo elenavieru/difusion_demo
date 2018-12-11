@@ -1764,26 +1764,19 @@ td, th {
    color: #00943C;
 }
 
-.verde .bck-box.bck-box-1{
-   border: 3px solid #00943C;
-}
-
-.verde .bck-box-1 .bck-title{
-   color:#00943C; 
-}
-
-.verde .bck-box-1 .bck-title:before{
-   background: url(imagenes_difusion/icono_casaverde.png);
-   background-size: contain;
-}
-
 .verde .bck-title-preparate{
     color: #fff;
     font-size: 2.1rem;
     font-weight: bold;
-    background: #00943C;
+    background: #D73534;
     padding: 12px;
     padding-left: 25px;
+}
+
+.verde .bck-box.bck-box-5 .bck-content {
+    padding: 10px;
+    background-color: #d7353430;
+    top: -20px;
 }
 
 /**/
@@ -2204,3 +2197,6 @@ td, th {
     }
 
 }
+
+
+
