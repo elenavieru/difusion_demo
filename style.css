@@ -689,17 +689,17 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
     background: #00A4CC;
     padding: 12px;
-    padding-left: 50px;
+    padding-left: 25px;
 }
 
 
 .bck-title-preparate:before{
     content: " ";
     position: relative;
-    top: 13px;
+    top: 15px;
     left: 0;
-    padding: 22px;
-    margin-right: 20px;
+    padding: 20px;
+    margin-right: 10px;
     background-size: contain;
     background-image: url(imagenes_difusion/img_casablanca.png);
     background-repeat: no-repeat;
@@ -2162,6 +2162,3 @@ td, th {
     }
 
 }
-
-
-
