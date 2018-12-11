@@ -1773,7 +1773,7 @@ td, th {
     padding-left: 25px;
 }
 
-.verde .bck-box.bck-box-5 .bck-content {
+.verde .bck-box.bck-box-5 {
     padding: 10px;
     background-color: #00943c40;
     top: -20px;
@@ -2197,3 +2197,6 @@ td, th {
     }
 
 }
+
+
+
