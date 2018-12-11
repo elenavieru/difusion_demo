@@ -999,7 +999,7 @@ body:not(.edit) .slider-indicators {
     content: " ";
     position: absolute;
     padding: 20px;
-    background-image: url(imagenes_difusion/img_multi.png);
+    background-image: url(imagenes_difusion/img_duo.png);
     background-repeat: no-repeat;
     background-size: contain;
     top: 10px;
