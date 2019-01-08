@@ -1802,6 +1802,15 @@ td, th {
 /*naranja*/
 
 #actividad .content .naranja .header .title h3{
+   background: #853F57;
+}
+
+/**/
+
+
+/*morado*/
+
+#actividad .content .morado .header .title h3{
    background: #E07C3E;
 }
 
