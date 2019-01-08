@@ -1818,7 +1818,19 @@ td, th {
     color: #853F57;
     font-size: 2.3rem;
     padding-bottom: 5px;
+    margin-left: 0;
 }
+
+.morado .bck-title-preparate{
+    background: #853F57;
+}
+
+
+.morado .bck-box.bck-box-5{
+    background-color: #853f5754;
+
+}
+
 
 /**/
 
