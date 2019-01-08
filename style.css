@@ -845,7 +845,7 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
     content: counter(bck-li-counter) ".";
-    position: absolute;
+    position: relative;
     text-align: left;
     color: #333;
     margin-left: -25px;
