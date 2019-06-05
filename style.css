@@ -1843,6 +1843,19 @@ td, th {
 /**/
 
 
+/*sección intro*/
+
+
+#actividad .content .intro .header .title h3 {
+    color: #333;
+    font-size: 2.5rem;
+    font-weight: 400;
+    background: #fff;
+    width: 100%;
+    padding: 13px;
+}
+
+
 
 /* Seccion primera */
 #actividad .carousel-inner .primera {
@@ -1862,6 +1875,8 @@ td, th {
 #actividad .carousel-inner .primera .slider-control:before {
     color: white;
 }
+
+
 /**/
 
 /* Seccion segunda */
