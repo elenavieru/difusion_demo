@@ -1662,18 +1662,12 @@ td, th {
     border-radius: 0;
 }
 
-.btn-primary[disabled], .btn-primary[disabled]:focus {
-    background-color: #bd0911;
-}
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
     background-color: #ac0910;
 }
 
 
-#actividad .content .review .attemps span {
-    background-color: #d46065;
-}
 
 /*portada*/
 
