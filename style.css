@@ -3,8 +3,8 @@
 /* Fonts */
 
 	@font-face {
-	  font-family: MyriadPro-Regular;
-	  src: url('fonts/MyriadPro-Regular.otf');
+	  font-family: Campton-Light;
+	  src: url('fonts/Campton-Light.otf');
 	}
 
 	@font-face {
@@ -615,7 +615,6 @@ body:not(.edit) .slider-indicators {
 #actividad .workspace.chooseblanks .inline-answer a{
     margin: -7px 2px 2px 2px;
 }
-
 
 
 /*Classify activities*/
