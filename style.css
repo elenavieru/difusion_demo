@@ -712,7 +712,7 @@ body:not(.edit) .slider-indicators {
 
 
 .bck-title-1 {
-    color: #00A4CC;
+    color: #333;
     font-size: 2.3rem;
     padding-bottom: 5px;
     margin-left: 25px;
@@ -1748,7 +1748,7 @@ td, th {
     color: #fff;
     font-size: 2.1rem;
     font-weight: bold;
-    background: #D73534;
+    background: #333;
     padding: 12px;
     padding-left: 25px;
 }
@@ -2286,3 +2286,6 @@ td, th {
     }
 
 }
+
+
+
