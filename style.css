@@ -724,6 +724,7 @@ body:not(.edit) .slider-indicators {
     font-size: 2.3rem;
     padding-bottom: 5px;
     margin-left: 25px;
+    font-family: Campton-Bold;
 }
 
 
@@ -2340,3 +2341,6 @@ td, th {
     }
 
 }
+
+
+
