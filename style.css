@@ -856,8 +856,8 @@ body:not(.edit) .slider-indicators {
     position: relative;
     text-align: left;
     color: #333;
-    margin-left: -20px;
-    margin-right: 5px;
+    margin-left: -25px;
+    right: 5px;
     font-size: 1.8rem;
     font-family: sans-serif;
     font-weight: bold;
