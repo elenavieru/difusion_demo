@@ -855,9 +855,9 @@ body:not(.edit) .slider-indicators {
     content: counter(bck-li-counter) ".";
     font-family: Campton-Bold;
     position: relative;
-    text-align: left
+    text-align: left;
     color: #333;
-    margin-left: -25px;
+    margin-left: -15px;
     right: 5px;
     font-size: 1.8rem;
     line-height: 30.5px;
