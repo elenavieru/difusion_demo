@@ -858,7 +858,7 @@ body:not(.edit) .slider-indicators {
     position: relative;
     text-align: left;
     color: #333;
-    margin-left: -15px;
+    margin-left: -25px;
     right: 5px;
     font-size: 1.8rem;
     line-height: 30.5px;
@@ -892,6 +892,7 @@ body:not(.edit) .slider-indicators {
     text-align: right;
     left:-30px;
     width: 28px;
+    font-family: inherit;
 
 }
 
@@ -2341,3 +2342,6 @@ td, th {
     }
 
 }
+
+
+
