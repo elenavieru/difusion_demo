@@ -1763,6 +1763,37 @@ td, th {
 /**/
 
 
+/*azul oscuro*/
+
+#actividad .content .azuloscuro .header .title h3{
+   background: #3B5A65;
+}
+
+.azuloscuro .bck-title-1{
+   color: #3B5A65;
+}
+
+.azuloscuro .bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #3B5A65;
+    padding: 12px;
+    padding-left: 25px;
+}
+
+.azuloscuro .bck-box.bck-box-5{
+    padding: 10px;
+    background-color: #d7353430;
+    top: -20px;
+}
+
+
+/**/
+
+
+
+
 /*verde*/
 
 #actividad .content .verde .header .title h3{
