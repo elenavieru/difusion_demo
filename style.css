@@ -610,6 +610,14 @@ body:not(.edit) .slider-indicators {
     background: #fff;
 }
 /**/
+
+
+#actividad .workspace.chooseblanks .inline-answer a{
+    margin: -7px 2px 2px 2px;
+}
+
+
+
 /*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
     background: #fff;
