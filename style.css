@@ -692,7 +692,7 @@ body:not(.edit) .slider-indicators {
     color: #fff;
     font-size: 2.1rem;
     font-weight: bold;
-    background: #00A4CC;
+    background: #333;
     padding: 12px;
     padding-left: 25px;
 }
