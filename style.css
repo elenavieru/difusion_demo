@@ -1856,6 +1856,18 @@ td, th {
 }
 
 
+.intro .texto_curso ul li:before,
+.intro .workspace ul li ul li:before,
+.intro .cke_contents ul li:before,
+.intro .preview ul li:before,
+.intro .classify-item ul li:before,
+#actividad .workspace.multiple-choice .intro .js-item ul li:before,
+#actividad .workspace.matching .intro .box ul li:before,
+#actividad .workspace.ordenar .intro .js-rank-item ul li:before{
+    background-color: #fff;
+    color: #fff;
+}
+
 
 /* Seccion primera */
 #actividad .carousel-inner .primera {
@@ -2274,6 +2286,3 @@ td, th {
     }
 
 }
-
-
-
