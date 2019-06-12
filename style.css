@@ -1242,22 +1242,7 @@ body:not(.edit) .slider-indicators {
 }
 
 .info-template .info-title.shown:before {
-
-    content: '\f040';
-    position: absolute;
-    left: 50%;
-    top: 0;
-    width: 24px;
-    height: 24px;
-    color: #728fa6;
-    font-family: "FontAwesome";
-    font-size: 20px;
-    line-height: 30px;
-    -webkit-transform: translateX(-50%);
-    -moz-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    -o-transform: translateX(-50%);
-    transform: translateX(-50%);
+     display: none;
 }
 
 
