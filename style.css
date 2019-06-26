@@ -56,8 +56,8 @@
 	}
 
 	@font-face {
-	  font-family: Sacramento-Regular;
-	  src: url(fonts/Sacramento-Regular.ttf);
+	  font-family: Campton-Book;
+	  src: url(fonts/Campton-Book.otf);
 	}
 
 
@@ -78,7 +78,7 @@ body {
     font-size: 1.8rem;
     font-weight: 300;
     text-align: left;
-    font-family: Campton-Light;
+    font-family: Campton-Book;
 }
 
 .body_clase .content-wrapper,
