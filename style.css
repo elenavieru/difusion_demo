@@ -745,6 +745,7 @@ body:not(.edit) .slider-indicators {
 
  .bck-enfasis-4 {
     background-color: #ffcca3;
+    font-weight: bold;
  }
 
 /*LISTAS DESORDENADAS*/
