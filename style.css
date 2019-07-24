@@ -3,12 +3,14 @@
 /* Fonts */
 
 	@font-face {
-	  font-family: Campton-Light;
+	  font-family: Campton;
+      font-weight: lighter;
 	  src: url('fonts/Campton-Light.otf');
 	}
 
 	@font-face {
-	  font-family: Campton-Bold;
+	  font-family: Campton;
+      font-weight: bold;
 	  src: url('fonts/Campton-Bold.otf');
 
 	}
