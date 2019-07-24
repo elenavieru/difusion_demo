@@ -4,20 +4,20 @@
 
 	@font-face {
 	  font-family: Campton;
-      font-weight: lighter;
+          font-weight: lighter;
 	  src: url('fonts/Campton-Light.otf');
 	}
 
 	@font-face {
 	  font-family: Campton;
-      font-weight: bold;
+          font-weight: bold;
 	  src: url('fonts/Campton-Bold.otf');
 
 	}
 	
 	@font-face {
 	  font-family: Campton;
-      font-weight: normal;
+          font-weight: normal;
 	  src: url(fonts/Campton-Book.otf);
 	}
 
