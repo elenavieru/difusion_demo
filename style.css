@@ -40,9 +40,9 @@ b, strong {
 body {
     height: 100vh;
     font-size: 1.8rem;
-    font-weight: 300;
+    font-weight: normal;
     text-align: left;
-    font-family: Campton-Book;
+    font-family: Campton;
 }
 
 .body_clase .content-wrapper,
@@ -684,7 +684,8 @@ body:not(.edit) .slider-indicators {
     font-size: 2.3rem;
     padding-bottom: 5px;
     margin-left: 25px;
-    font-family: Campton-Bold;
+    font-family: Campton;
+    font-weight: bold;
 }
 
 
@@ -819,7 +820,8 @@ body:not(.edit) .slider-indicators {
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
     content: counter(bck-li-counter) ".";
-    font-family: Campton-Bold;
+    font-family: Campton;
+    font-weight: bold;
     position: relative;
     text-align: left;
     color: #333;
@@ -852,12 +854,12 @@ body:not(.edit) .slider-indicators {
     content: counter(bck-li-counter) ".";
     position: absolute;
     color: #333;
-    font-weight: 600;
+    font-weight: bold;
     margin-top: 0;
     text-align: right;
     left:-30px;
     width: 29px;
-    font-family: Campton-Bold;
+    font-family: Campton;
 
 }
 
@@ -887,7 +889,7 @@ body:not(.edit) .slider-indicators {
     position: absolute;
     color: #000;
     font-size: 1.8rem;
-    font-weight: 600;
+    font-weight: bold;
     text-align: right;
     left: -20px;
     font-family: inherit;
