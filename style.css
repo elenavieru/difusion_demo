@@ -23,7 +23,8 @@
 	}
 
 	@font-face {
-	  font-family: Candara Bold;
+	  font-family: Candara;
+      font-weight: bold;
 	  src: url(fonts/Candara Bold.ttf);
 	}
 
