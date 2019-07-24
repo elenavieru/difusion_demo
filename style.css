@@ -689,6 +689,7 @@ body:not(.edit) .slider-indicators {
 
 
 .bck-title-3 {
+    font-weight: lighter;
     font-size: 1.7rem;
 }
 
@@ -2292,3 +2293,6 @@ td, th {
     }
 
 }
+
+
+
