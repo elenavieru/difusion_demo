@@ -743,6 +743,10 @@ body:not(.edit) .slider-indicators {
     color: #728fab;
  }
 
+ .bck-enfasis-4 {
+    background-color: #ffcca3;
+ }
+
 /*LISTAS DESORDENADAS*/
 
 .texto_curso ul li {
