@@ -42,6 +42,8 @@
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td bck-td-3'} },
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td bck-td-4'} },
 
+				{ name: 'Icono Critical Thinking', element: 'span', attributes: { 'class': 'icon icon-critical' } },
+
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } },
