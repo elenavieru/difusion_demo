@@ -1469,7 +1469,7 @@ body:not(.edit) .slider-indicators {
 }
 
 .item-container .icon-critical:before {
-    background-image: url(imagenes_difusion/critical_thinking_white.png);
+    background-image: url(imagenes_difusion/critical_thinking_dark.png);
 }
 
 .item-container .icon-clase:before {
