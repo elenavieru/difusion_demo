@@ -1298,6 +1298,10 @@ body:not(.edit) .slider-indicators {
     background-image: url(icon_escuchar.png);
 }
 
+.item-container .icon-critical:before {
+    background-image: url(images/critical_thinking_white.png);
+}
+
 /**2**/
 
 .titulo-2 {
