@@ -1258,7 +1258,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-box .bck-box-8 {
     min-height: 80px;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .bck-box-8 .bck-title {
@@ -1266,14 +1266,14 @@ body:not(.edit) .slider-indicators {
     font-size: 2rem;
     font-weight: bold;
     text-align: left;
-    background-color: #808080;
+    background-color: #333;
     padding: 10px;
     padding-left: 70px;
 }
 
 .bck-box-8 {
     background: #E5E5E5;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .bck-box-8:before {
