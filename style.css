@@ -680,7 +680,7 @@ body:not(.edit) .slider-indicators {
     position: absolute;
 }
 
-.bck-file-attach:before {
+.bck-file-attach img {
     display: none;
 
 }
