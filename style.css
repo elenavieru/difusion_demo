@@ -1308,6 +1308,13 @@ body:not(.edit) .slider-indicators {
     margin-left: 40px;
 }
 
+/*clasificar*/
+#actividad .workspace.clasificar .clasificar_lista>ul {
+    display: inline-block;
+    min-height: 70px;
+    text-align: left;
+    margin-left: 47px;
+}
 
 
 /**/
