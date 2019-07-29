@@ -1181,15 +1181,14 @@ body:not(.edit) .slider-indicators {
     color: #fff;
     font-size: 2.1rem;
     font-weight: bold;
-    background-color: #D1E3F0;
+    background-color: #D0D0D0;
     padding: 10px;
     text-align: center;
 }
 
 .bck-box-7 .bck-content {
     padding: 10px;
-    background-color: #D1E3F0;
-    top: -20px;
+    background-color: #D0D0D0;
 }
 
 
