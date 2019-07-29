@@ -920,7 +920,7 @@ body:not(.edit) .slider-indicators {
     font-family: inherit;
 }
 
-/*LISTA ORDENADA 3*/
+/*LISTA ORDENADA 4*/
 #actividad .content .cke_contents .bck-ol-4,
 #actividad .content .texto_curso .bck-ol-4,
 #actividad .content .workspace ul li .bck-ol-4 {
@@ -1290,6 +1290,13 @@ body:not(.edit) .slider-indicators {
 
 .info-template .info-title.shown:before {
      display: none;
+}
+
+
+/*AJUSTES ACTIVIDADES*/
+#actividad .workspace.true-false .tf-option {
+    display: inline-block;
+    margin-left: 50px;
 }
 
 
