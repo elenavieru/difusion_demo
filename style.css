@@ -1278,6 +1278,10 @@ body:not(.edit) .slider-indicators {
 .bck-box-8:before {
     content: "VÍDEO"
     color: #808080;
+    padding: 40px;
+    position: absolute;
+    margin-top: -10px;
+    left: 20px;
 }
 
 /*CAJA POP-UP*/
