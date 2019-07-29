@@ -1271,13 +1271,13 @@ body:not(.edit) .slider-indicators {
     padding-left: 70px;
 }
 
-.bck-box-8{
+.bck-box-8 {
     background: #E5E5E5;
     margin-top: 40px;
 }
 
 .bck-box-8:before {
-    content: "VÍDEO"
+    content: "VÍDEO";
     color: #333;
     padding: 40px;
     position: absolute;
