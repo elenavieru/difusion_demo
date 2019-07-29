@@ -671,12 +671,14 @@ body:not(.edit) .slider-indicators {
 /*PRUEBA ARCHIVO DESCARGABLE*/
 
 .bck-file-attach:before {
-   content: " ";
-   background-image: url(imagenes_difusion/icono_transcripciones.png);
-   background-repeat: no-repeat;
-  padding: 20px;
+    content: " ";
+    background-image: url(imagenes_difusion/icono_transcripciones.png);
+    background-repeat: no-repeat;
+    padding: 10px;
+    background-size: contain;
+    margin-top: 7px;
+    position: absolute;
 }
-
 
 
 /*título genérico*/
