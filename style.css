@@ -1258,7 +1258,7 @@ body:not(.edit) .slider-indicators {
 
 .bck-box .bck-box-8 {
     min-height: 80px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .bck-box-8 .bck-title {
@@ -1280,8 +1280,9 @@ body:not(.edit) .slider-indicators {
     color: #808080;
     padding: 40px;
     position: absolute;
-    margin-top: -10px;
-    left: 20px;
+    margin-top: -60px;
+    left: 25px;
+    font-weight: bold;
 }
 
 /*CAJA POP-UP*/
