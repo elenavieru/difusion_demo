@@ -2341,6 +2341,44 @@ td, th {
     max-height: 800%;
 }
 
+/*Dropdown 5*/
+.bck-dropdown.bck-dropdown-5 {
+    background-color: #333;
+    margin-top: 10px;
+}
+
+.bck-dropdown-5 .bck-dropdown-button {
+    margin-top: 0px;
+    font-size: 1.2rem;
+}
+
+.bck-dropdown-5 .bck-dropdown-icon {
+    background-color: transparent;
+    width: 35px;
+    height: 10px;
+    float: right;
+}
+
+.bck-dropdown-5 .bck-dropdown-icon > .fa {
+    border: 0px solid white;
+}
+
+.bck-dropdown-5 .fa-chevron-up:before, .bck-dropdown-5 .fa-chevron-down:before {
+    font-size: 1.8rem;
+}
+
+.bck-dropdown-5 .bck-dropdown-titulo {
+    font-size: 1.8rem;
+    padding-left: 8px;
+    font-weight: 800;
+}
+
+.bck-dropdown-5 .bck-dropdown-content {
+    background-color: #E5E5E5;
+    padding-left: 25px;
+    max-height: 800%;
+}
+
 /**/
 
 /*Activities Dropdown*/
