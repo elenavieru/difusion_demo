@@ -680,6 +680,10 @@ body:not(.edit) .slider-indicators {
     position: absolute;
 }
 
+.bck-file-attach:before {
+    display: none;
+
+}
 
 /*título genérico*/
 
