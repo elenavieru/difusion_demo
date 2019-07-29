@@ -1316,6 +1316,12 @@ body:not(.edit) .slider-indicators {
     margin-left: 47px;
 }
 
+/*botonera general*/
+#actividad .class_slide .review {
+    margin-top: 40px;
+    text-align: left;
+}
+
 
 /**/
 
