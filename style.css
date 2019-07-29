@@ -32,6 +32,18 @@ b, strong {
     font-weight: bold;
 }
 
+@font-face {
+    font-family: 'Conv_marydale';
+    src: url('fonts/marydale.eot');
+    src: local('☺'), 
+    url('fonts/marydale.woff') format('woff'), 
+    url('fonts/marydale.ttf') format('truetype'), 
+    url('fonts/marydale.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 /*General */
 
 /*video*/
@@ -721,6 +733,7 @@ body:not(.edit) .slider-indicators {
  }
 
  .bck-enfasis-5 {
+    font-family:'Conv_marydale',Sans-Serif;
     color: #415799;
  }
 
