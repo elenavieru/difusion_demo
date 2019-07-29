@@ -720,6 +720,10 @@ body:not(.edit) .slider-indicators {
     font-weight: bold;
  }
 
+ .bck-enfasis-5 {
+    color: #415799;
+ }
+
 /*LISTAS DESORDENADAS*/
 
 .texto_curso ul li {
