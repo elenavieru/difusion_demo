@@ -1294,9 +1294,18 @@ body:not(.edit) .slider-indicators {
 
 
 /*AJUSTES ACTIVIDADES*/
+
+/*Verdadero y falso*/
 #actividad .workspace.true-false .tf-option {
     display: inline-block;
     margin-left: 50px;
+}
+
+/*Fill in the blanks*/
+.fillblanks-draggable-wrapper {
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 40px;
 }
 
 
