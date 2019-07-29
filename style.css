@@ -1248,11 +1248,11 @@ body:not(.edit) .slider-indicators {
 .bck-box-8 .bck-title:before {
     content: " ";
     position: absolute;
-    padding: 20px;
+    padding: 17px;
     background-image: url(imagenes_difusion/icono_video_blanco.png);
     background-repeat: no-repeat;
     background-size: contain;
-    top: 10px;
+    top: 13px;
     left: 17px;
 }
 
@@ -1281,9 +1281,10 @@ body:not(.edit) .slider-indicators {
     color: #333;
     padding: 40px;
     position: absolute;
-    margin-top: -60px;
-    left: 25px;
+    margin-top: -65px;
+    left: -30px;
     font-weight: bold;
+    font-size: 2.2rem;
 }
 
 /*CAJA POP-UP*/
