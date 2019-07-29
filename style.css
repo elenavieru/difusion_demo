@@ -1243,7 +1243,7 @@ body:not(.edit) .slider-indicators {
     background-color: #D0D0D0;
 }
 
-/*CAJA1*/
+/*CAJA8*/
 
 .bck-box-8 .bck-title:before {
     content: " ";
@@ -1262,7 +1262,7 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box-8 .bck-title {
-    color: #fff;
+    color: #333;
     font-size: 2rem;
     font-weight: bold;
     text-align: left;
