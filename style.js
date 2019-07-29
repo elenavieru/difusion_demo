@@ -44,6 +44,7 @@
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td bck-td-4'} },
 
 				{ name: 'Icono Critical Thinking', element: 'span', attributes: { 'class': 'icon icon-critical' } },
+				{ name: 'Icono Critical Thinking Gold', element: 'span', attributes: { 'class': 'icon icon-critical-gold' } },
 
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 
