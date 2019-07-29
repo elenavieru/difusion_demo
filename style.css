@@ -977,37 +977,7 @@ body:not(.edit) .slider-indicators {
     background: #E5E5E5;
 }
 
-/*CAJADUO*/
 
-.bck-box-6 .bck-title:before {
-    content: " ";
-    position: absolute;
-    padding: 20px;
-    background-image: url(imagenes_difusion/img_duo.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    top: 10px;
-    left: 17px;
-}
-
-.bck-box .bck-box-6 {
-    min-height: 80px;
-    margin-top: 20px;
-}
-
-.bck-box-6 .bck-title {
-    color: #fff;
-    font-size: 2rem;
-    font-weight: bold;
-    text-align: left;
-    background-color: #808080;
-    padding: 10px;
-    padding-left: 70px;
-}
-
-.bck-box-6{
-    background: #E5E5E5;
-}
 
 
 /*CAJA2*/
@@ -1167,6 +1137,38 @@ body:not(.edit) .slider-indicators {
     padding: 10px;
     background-color: #D1E3F0;
     top: -20px;
+}
+
+/*CAJADUO - CAJA 6*/
+
+.bck-box-6 .bck-title:before {
+    content: " ";
+    position: absolute;
+    padding: 20px;
+    background-image: url(imagenes_difusion/img_duo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: 10px;
+    left: 17px;
+}
+
+.bck-box .bck-box-6 {
+    min-height: 80px;
+    margin-top: 20px;
+}
+
+.bck-box-6 .bck-title {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: left;
+    background-color: #808080;
+    padding: 10px;
+    padding-left: 70px;
+}
+
+.bck-box-6{
+    background: #E5E5E5;
 }
 
 /*CAJA 7*/
