@@ -1383,6 +1383,12 @@ body:not(.edit) .slider-indicators {
     text-align: left;
 }
 
+.btn-danger, .btn-danger[disabled] {
+    color: #fff;
+    border-color: transparent;
+    border-radius: 0px;
+}
+
 
 /**/
 
