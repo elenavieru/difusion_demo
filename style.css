@@ -667,6 +667,18 @@ body:not(.edit) .slider-indicators {
     vertical-align: sub;
 }
 
+/*icono transcripciones - archivo descargable*/
+/*PRUEBA ARCHIVO DESCARGABLE*/
+
+.bck-file-attach:before {
+   content: " ";
+   background-image: url (imagenes_difusion/icono_transcripciones.png);
+   background-repeat: no-repeat;
+  padding: 20px;
+}
+
+
+
 /*título genérico*/
 
 .bck-title {
