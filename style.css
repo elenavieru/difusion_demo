@@ -1879,6 +1879,11 @@ td, th {
 
 .activitytag_verde_proyectos .bck-box-3 .bck-title:before {
     background: url(imagenes_difusion/campana_verde.png);
+    background-size: contain;
+}
+
+.activitytag_verde_proyectos .bck-box.bck-box-3 .bck-title {
+    color: #556F35;
 }
 
 /**/
