@@ -1089,7 +1089,8 @@ body:not(.edit) .slider-indicators {
     color: #808285;
     border: 0;
     padding: 10px 25px;
-    background: #fff;   
+    background: #fff;
+    font-size: 3.1rem;   
 }
 
 .bck-box.bck-box-2 .bck-title {
