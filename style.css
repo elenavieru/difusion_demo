@@ -1310,7 +1310,7 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box-8:before {
-    content: "VÍDEO";
+    content: "VIDEO";
     color: #333;
     padding: 40px;
     position: absolute;
