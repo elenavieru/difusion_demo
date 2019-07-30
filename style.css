@@ -1907,6 +1907,39 @@ td, th {
     color: #556F35;
 }
 
+
+/*Tag negra*/
+
+.activitytag_negra_proyectos .bck-box.bck-box-3 {
+   border: 3px dotted #000000;
+}
+
+.activitytag_negra_proyectos .bck-box-3 .bck-title:before {
+    background: url(imagenes_difusion/campana_negra.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.activitytag_negra_proyectos .bck-box.bck-box-3 .bck-title {
+    color: #000000;
+}
+
+/**/
+
+.activitytag_negra_proyectos .bck-box.bck-box-4 {
+   border: 3px dotted #000000;
+}
+
+.activitytag_negra_proyectos .bck-box-4 .bck-title:before {
+    background: url(imagenes_difusion/engranajes_negra.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.activitytag_negra_proyectos .bck-box.bck-box-4 .bck-title {
+    color: #000000;
+}
+
 /**/
 
 
