@@ -1880,6 +1880,7 @@ td, th {
 .activitytag_verde_proyectos .bck-box-3 .bck-title:before {
     background: url(imagenes_difusion/campana_verde.png);
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .activitytag_verde_proyectos .bck-box.bck-box-3 .bck-title {
@@ -1895,6 +1896,7 @@ td, th {
 .activitytag_verde_proyectos .bck-box-4 .bck-title:before {
     background: url(imagenes_difusion/engranajes_verde.png);
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .activitytag_verde_proyectos .bck-box.bck-box-4 .bck-title {
