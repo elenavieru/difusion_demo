@@ -1396,6 +1396,7 @@ body:not(.edit) .slider-indicators {
 #actividad .class_slide .review {
     margin-top: 40px;
     text-align: left;
+    margin-left: 40px;
 }
 
 .btn-danger, .btn-danger[disabled] {
