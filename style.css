@@ -1403,6 +1403,12 @@ body:not(.edit) .slider-indicators {
     margin-left: 20px;
 }
 
+/*parejas cartas*/
+
+#actividad .workspace.memory .flip-container p {
+    font-size: 1.5rem;
+}
+
 /*botonera general*/
 #actividad .class_slide .review {
     margin-top: 40px;
