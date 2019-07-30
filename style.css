@@ -1870,6 +1870,18 @@ td, th {
 
 /**/
 
+/*TAGS*/
+
+/*Tag verde*/
+.activitytag_verde_proyectos .bck-box.bck-box-3 {
+   border: 3px dotted #556F35;
+}
+
+.activitytag_verde_proyectos .bck-box-3 .bck-title:before {
+    background: url(imagenes_difusion/campana_verde.png);
+}
+
+/**/
 
 
 /* Seccion Actividades */
