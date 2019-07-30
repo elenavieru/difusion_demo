@@ -731,6 +731,11 @@ body:not(.edit) .slider-indicators {
     font-size: 1.7rem;
 }
 
+.bck-title-4 {
+    font-weight: bold;
+    font-size: 4.8rem;
+}
+
 .bck-enfasis {
     color: #31A2C7;
     font-weight: bold;
