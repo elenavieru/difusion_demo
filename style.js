@@ -48,6 +48,7 @@
 
 				{ name: 'Icono Critical Thinking', element: 'span', attributes: { 'class': 'icon icon-critical' } },
 				{ name: 'Icono Critical Thinking Gold', element: 'span', attributes: { 'class': 'icon icon-critical-gold' } },
+				{ name: 'Icono Critical Verde', element: 'span', attributes: { 'class': 'icon icon-critical-verde' } },
 
 				{ name: 'Enlace web', element: 'a', attributes: { 'class': 'bck-link'} },
 
