@@ -43,6 +43,16 @@ b, strong {
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Conv_Stag-Light';
+    src: url('fonts/Stag-Light.eot');
+    src: local('☺'), 
+    url('fonts/Stag-Light.woff') format('woff'), 
+    url('fonts/Stag-Light.ttf') format('truetype'), 
+    url('fonts/Stag-Light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /*General */
 
@@ -1075,6 +1085,8 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box.bck-box-2 .bck-content {
+    font-family:'Conv_Stag-Light';
+    color: #808285;
     border: 0;
     padding: 10px 25px;
     background: #fff;   
