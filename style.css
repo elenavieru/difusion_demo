@@ -1888,6 +1888,21 @@ td, th {
 
 /**/
 
+.activitytag_verde_proyectos .bck-box.bck-box-4 {
+   border: 3px dotted #556F35;
+}
+
+.activitytag_verde_proyectos .bck-box-4 .bck-title:before {
+    background: url(imagenes_difusion/engranajes_verde.png);
+    background-size: contain;
+}
+
+.activitytag_verde_proyectos .bck-box.bck-box-4 .bck-title {
+    color: #556F35;
+}
+
+/**/
+
 
 /* Seccion Actividades */
 #actividad .carousel-inner .actividades .item-container {
