@@ -771,6 +771,12 @@ body:not(.edit) .slider-indicators {
     color: #415799;
     font-size: 2rem;
  }
+ 
+.bck-enfasis-6 {
+    font-weight: bold;
+    color: #DBBC00;
+}
+
 
 /*LISTAS DESORDENADAS*/
 
