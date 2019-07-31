@@ -164,8 +164,8 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 }
 
 #indice .unit-content .header .title {
-    color: #31A2C7;
-    background: #ffffff9e;
+    color: #fff;
+    background: transparent;
     float: left;
     font-size: 30px;
     font-weight: 700;
