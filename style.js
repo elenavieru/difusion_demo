@@ -25,6 +25,7 @@
 				{ name: 'Énfasis-3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'Énfasis-4', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis-Ejemplo', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'Énfasis-Leer', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
 				{ name: 'Lista Ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
