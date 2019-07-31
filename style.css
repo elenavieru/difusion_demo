@@ -1132,7 +1132,7 @@ body:not(.edit) .slider-indicators {
     content: '';
 }
 
-/*CAJA3*/
+/*CAJA 3*/
 
 .bck-box.bck-box-3 {
     background: #fff;
@@ -1156,6 +1156,18 @@ body:not(.edit) .slider-indicators {
 }
 
 .bck-box-3 .bck-title:before {
+    content: " ";
+    position: absolute;
+    padding: 20px;
+    background: url(imagenes_difusion/img_campana.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: -10px;
+    left: -22px;
+}
+
+/*Caja 3 dentro de caja 6*/
+.bck-box-6 .bck-box-3 .bck-title:before {
     content: " ";
     position: absolute;
     padding: 20px;
