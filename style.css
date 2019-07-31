@@ -771,7 +771,7 @@ body:not(.edit) .slider-indicators {
     color: #415799;
     font-size: 2rem;
  }
- 
+
 .bck-enfasis-6 {
     font-weight: bold;
     color: #DBBC00;
@@ -1718,6 +1718,10 @@ body:not(.edit) .slider-indicators {
 
 .item-container .icon-critical-verde:before {
     background-image: url(imagenes_difusion/critical_thinking_verde.png);
+}
+
+.item-container .icon-critical-negro:before {
+    background-image: url(imagenes_difusion/critical_thinking_negro.png);
 }
 
 .item-container .icon-clase:before {
