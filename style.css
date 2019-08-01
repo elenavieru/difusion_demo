@@ -883,28 +883,31 @@ body:not(.edit) .slider-indicators {
     font-weight: 700;
 }
 
+
+/*
 #actividad .content .cke_contents .bck-ol-1 li:before, 
 #actividad .content .texto_curso .bck-ol-1 li:before, 
 #actividad .popover-content .bck-ol-1 li:before, 
 #actividad .content .workspace ul li .bck-ol-1 li:before {
-    /* margin-left: -13px; */
+     margin-left: -13px;
 }
+*/
 
 
 #actividad .content .cke_contents .bck-ol-1 li:before,
 #actividad .content .texto_curso .bck-ol-1 li:before,
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
-    content: counter(bck-li-counter) ".";
+        content: counter(bck-li-counter) ".";
     font-family: Campton;
     font-weight: bold;
-    position: relative;
+    position: absolute;
     text-align: left;
     color: #333;
-    margin-left: -25px;
-    right: 5px;
+    left: -40px;
     font-size: 1.8rem;
-    line-height: 30.5px;
+    padding: 20px;
+    margin-top: -20px;
 }
 
 /*LISTA ORDENADA 2*/
