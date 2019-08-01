@@ -906,7 +906,7 @@ body:not(.edit) .slider-indicators {
     color: #333;
     font-size: 1.8rem;
     width: 29px;
-    margin-top: -20px;
+    margin-top: 0px;
     left:-30px;
 }
 
