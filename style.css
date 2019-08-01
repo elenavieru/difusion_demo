@@ -904,10 +904,10 @@ body:not(.edit) .slider-indicators {
     position: absolute;
     text-align: right;
     color: #333;
-    left: -40px;
     font-size: 1.8rem;
-    padding: 20px;
+    width: 29px;
     margin-top: -20px;
+    left:-30px;
 }
 
 /*LISTA ORDENADA 2*/
