@@ -898,11 +898,11 @@ body:not(.edit) .slider-indicators {
 #actividad .content .texto_curso .bck-ol-1 li:before,
 #actividad .popover-content .bck-ol-1 li:before,
 #actividad .content .workspace ul li .bck-ol-1 li:before {
-        content: counter(bck-li-counter) ".";
+    content: counter(bck-li-counter) ".";
     font-family: Campton;
     font-weight: bold;
     position: absolute;
-    text-align: left;
+    text-align: right;
     color: #333;
     left: -40px;
     font-size: 1.8rem;
@@ -929,7 +929,10 @@ body:not(.edit) .slider-indicators {
     z-index: 0;
 }
 
-#actividad .content .cke_contents .bck-ol-2 li:before, #actividad .content .texto_curso ol.bck-ol-2 li:before, #actividad .popover-content ol.bck-ol-2 li:before, #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+#actividad .content .cke_contents .bck-ol-2 li:before, 
+#actividad .content .texto_curso ol.bck-ol-2 li:before, 
+#actividad .popover-content ol.bck-ol-2 li:before, 
+#actividad .content .workspace ul li ol.bck-ol-2 li:before {
     content: counter(bck-li-counter) ".";
     position: absolute;
     color: #333;
