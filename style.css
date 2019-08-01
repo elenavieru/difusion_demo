@@ -1989,6 +1989,71 @@ td, th {
 
 /**/
 
+/*Tag gold*/
+.activitytag_gold_proyectos .bck-box.bck-box-3 {
+   border: 3px dotted #E2C95F;
+}
+
+.activitytag_gold_proyectos .bck-box-3 .bck-title:before {
+    background: url(imagenes_difusion/campana_gold.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.activitytag_gold_proyectos .bck-box.bck-box-3 .bck-title {
+    color: #E2C95F;
+}
+
+/**/
+
+.activitytag_gold_proyectos .bck-box.bck-box-4 {
+   border: 3px dotted #E2C95F;
+}
+
+.activitytag_gold_proyectos .bck-box-4 .bck-title:before {
+    background: url(imagenes_difusion/engranajes_gold.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.activitytag_gold_proyectos .bck-box.bck-box-4 .bck-title {
+    color: #E2C95F;
+}
+
+/**/
+
+/*Tag azul*/
+.activitytag_azul_proyectos .bck-box.bck-box-3 {
+   border: 3px dotted #385963;
+}
+
+.activitytag_azul_proyectos .bck-box-3 .bck-title:before {
+    background: url(imagenes_difusion/campana_azul.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.activitytag_azul_proyectos .bck-box.bck-box-3 .bck-title {
+    color: #385963;
+}
+
+/**/
+
+.activitytag_azul_proyectos .bck-box.bck-box-4 {
+   border: 3px dotted #385963;
+}
+
+.activitytag_azul_proyectos .bck-box-4 .bck-title:before {
+    background: url(imagenes_difusion/engranajes_azul.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.activitytag_azul_proyectos .bck-box.bck-box-4 .bck-title {
+    color: #385963;
+}
+
+/**/
 
 /* Seccion Actividades */
 #actividad .carousel-inner .actividades .item-container {
