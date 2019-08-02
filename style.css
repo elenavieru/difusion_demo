@@ -1429,7 +1429,7 @@ body:not(.edit) .slider-indicators {
 
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
     background: #fff;
-    padding: 10px;
+    padding: 0px 10px 0px 10px;
 }
 
 /*tipo test*/
