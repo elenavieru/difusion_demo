@@ -1427,6 +1427,11 @@ body:not(.edit) .slider-indicators {
     margin-left: 47px;
 }
 
+#actividad .workspace.clasificar .clasificar_lista .classify-item {
+    background: #fff;
+    padding: 10px;
+}
+
 /*tipo test*/
 
 #actividad .workspace.test .checkbox-option label.filter-label, 
