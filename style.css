@@ -466,14 +466,6 @@ body.is_app .difusion_demo-navbar.ocultar {
     padding: 0 20px;
 }
 
-.logo-publisher {
-    float: left;
-    display: block;
-    width: 87px;
-    height: 35px;
-    margin: 9px 0;
-    background: url(../difusion_demo/images/logong.png) center center / cover no-repeat;
-}
 
 .edit -publisher {
     top: 2px;
