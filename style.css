@@ -769,6 +769,12 @@ body:not(.edit) .slider-indicators {
     color: #DBBC00;
 }
 
+.bck-enfasis-6 {
+    font-weight: bold;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+
+}
 
 /*LISTAS DESORDENADAS*/
 
