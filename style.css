@@ -678,7 +678,7 @@ body:not(.edit) .slider-indicators {
     background-repeat: no-repeat;
     padding: 10px;
     background-size: contain;
-    margin-top: 7px;
+    margin-top: 4px;
     position: absolute;
 }
 
