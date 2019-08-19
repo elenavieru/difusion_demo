@@ -1736,6 +1736,8 @@ body:not(.edit) .slider-indicators {
 
 .item-container .icon-video-oscuro:before {
     background-image: url(imagenes_difusion/icono_video_oscuro.png);
+    height: 20px;
+    width: 33px;
 }
 
 
