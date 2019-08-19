@@ -2656,6 +2656,10 @@ td, th {
 }
 /**/
 
+.fa-times:before {
+    color: #333;
+}
+
 /**TABS**/
 
 .activities-dropdown .nav-tabs {
