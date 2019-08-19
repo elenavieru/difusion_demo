@@ -1734,6 +1734,12 @@ body:not(.edit) .slider-indicators {
     background-image: url(imagenes_difusion/critical_thinking_negro.png);
 }
 
+.item-container .icon-video-oscuro:before {
+    background-image: url(imagenes_difusion/icono_video_oscuro.png);
+}
+
+
+/*
 .item-container .icon-clase:before {
     background-image: url(icon_clase.png);
 }
@@ -1797,6 +1803,8 @@ body:not(.edit) .slider-indicators {
 .item-container .icon-talento-verde:before {
     background-image: url(icon_talento_verde.png);
 }
+
+*/
 
 /**Iconos con número**/
 .item-container .icono {
