@@ -1740,6 +1740,12 @@ body:not(.edit) .slider-indicators {
     width: 33px;
 }
 
+.item-container .icon-bocadillo-blanco:before {
+    background-image: url(imagenes_difusion/bocadillo_blanco.png);
+}
+
+
+
 
 /*
 .item-container .icon-clase:before {
