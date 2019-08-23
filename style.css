@@ -701,6 +701,14 @@ body:not(.edit) .slider-indicators {
 
 }
 
+.bck-file-attach span {
+    display: inline-block;
+    max-width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding-left: 10px;
+}
+
 /*título genérico*/
 
 .bck-title {
