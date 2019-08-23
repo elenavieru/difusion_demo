@@ -1410,7 +1410,7 @@ body:not(.edit) .slider-indicators {
     box-sizing: border-box;
     height: 0;
     overflow: hidden;
-    color: #728fa6;
+    color: #333;
     text-align: center;
     -webkit-transition: all ease-in-out .5s;
     -o-transition: all ease-in-out .5s;
@@ -1421,6 +1421,64 @@ body:not(.edit) .slider-indicators {
 
 .info-template .info-title.shown:before {
      display: none;
+}
+
+/*icono info*/
+
+.fa-info:before {
+    content: "+";
+    font-weight: bold;
+    font-family: Campton;
+    font-size: 2.2rem;
+    line-height: 20px;
+    color: #333;
+}
+
+#actividad .info-button {
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin: 0px;
+    -webkit-box-shadow: 0 0 2px #555;
+    -moz-box-shadow: 0 0 2px #555;
+    box-shadow: 0 0 2px #555;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #fff;
+    color: #1a171b;
+    font-family: 'FontAwesome';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+/*Pop-up flotante*/
+.info-template {
+    position: fixed;
+    top: 100px;
+    right: 0;
+    -webkit-transform: translateX(105%);
+    -moz-transform: translateX(105%);
+    -ms-transform: translateX(105%);
+    -o-transform: translateX(105%);
+    transform: translateX(105%);
+    z-index: 1000;
+    width: 135px;
+    height: auto;
+    -webkit-box-shadow: 0 0 2px #555;
+    -moz-box-shadow: 0 0 2px #555;
+    box-shadow: 0 0 2px #555;
+    -webkit-border-radius: 5px 0 0 5px;
+    -moz-border-radius: 5px 0 0 5px;
+    border-radius: 5px 0 0 5px;
+    background: #fff;
+    padding: 15px 5px 0;
+    -webkit-transition: all ease-in-out .5s;
+    -o-transition: all ease-in-out .5s;
+    -moz-transition: all ease-in-out .5s;
+    transition: all ease-in-out .5s;
 }
 
 
