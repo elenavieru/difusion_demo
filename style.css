@@ -679,6 +679,8 @@ body:not(.edit) .slider-indicators {
     -moz-border-radius: 5px 5px;
     border-radius: 5px 5px;
     max-width: 200px;
+    margin: 5px;
+    padding: 5px;
     display: inline-block;
     text-align: center;
     overflow-wrap: break-word;
