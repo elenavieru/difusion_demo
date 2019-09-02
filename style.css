@@ -798,6 +798,15 @@ body:not(.edit) .slider-indicators {
 
 }
 
+.bck-enfasis-8 {
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #333;
+}
+
+
 /*LISTAS DESORDENADAS*/
 
 .texto_curso ul li {
