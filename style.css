@@ -67,7 +67,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:hover:not(.disabled) {
     background: #b7b7b7;
-    
+
 }
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
@@ -217,13 +217,11 @@ body {
     margin-left: 10px;
 }
 
-/*
 
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, 
 #book-index #indice .units ul li.active a {
-    background: #31A2C7;
+    background: #3333;
 }
-*/
 
 
 #book-index .col-main {
