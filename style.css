@@ -2,24 +2,24 @@
 
 /* Fonts */
 
-	@font-face {
-	  font-family: Campton;
+    @font-face {
+      font-family: Campton;
       font-weight: 100;
-	  src: url('fonts/Campton-Light.otf');
-	}
+      src: url('fonts/Campton-Light.otf');
+    }
 
-	@font-face {
-	  font-family: Campton;
+    @font-face {
+      font-family: Campton;
       font-weight: bold;
-	  src: url('fonts/Campton-Bold.otf');
+      src: url('fonts/Campton-Bold.otf');
 
-	}
-	
-	@font-face {
-	  font-family: Campton;
+    }
+    
+    @font-face {
+      font-family: Campton;
       font-weight: normal;
-	  src: url(fonts/Campton-Book.otf);
-	}
+      src: url(fonts/Campton-Book.otf);
+    }
 
 @font-face {
       font-family: Campton light;
@@ -2063,6 +2063,10 @@ td, th {
     color: #556F35;
 }
 
+.activitytag_verde_proyectos .bck-enfasis-8 {
+    background-color: #556F35;
+}
+
 
 /*Tag negra*/
 
@@ -2160,6 +2164,10 @@ td, th {
 
 .activitytag_azul_proyectos .bck-box.bck-box-4 .bck-title {
     color: #385963;
+}
+
+.activitytag_azul_proyectos .bck-enfasis-8 {
+    background-color: #385963;
 }
 
 /**/
