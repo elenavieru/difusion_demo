@@ -2275,6 +2275,31 @@ td, th {
     top: -20px;
 }
 
+/*activity tag azul oscuro*/
+
+.activitytag_azuloscuro_proyectos #actividad .content .header .title h3{
+   background: #3B5A65;
+}
+
+.activitytag_azuloscuro_proyectos .bck-title-1{
+   color: #3B5A65;
+}
+
+.activitytag_azuloscuro_proyectos .bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #3B5A65;
+    padding: 12px;
+    padding-left: 25px;
+}
+
+.verdoso .bck-box.bck-box-5{
+    padding: 10px;
+    background-color: #556f3526;
+    top: -20px;
+}
+
 
 /**/
 
