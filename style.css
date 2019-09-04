@@ -66,7 +66,8 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:hover:not(.disabled) {
-    background: #3333337d;
+    background: #b7b7b7;
+    
 }
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
