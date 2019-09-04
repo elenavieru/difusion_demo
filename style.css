@@ -2300,6 +2300,13 @@ td, th {
    background: #E07C3E;
 }
 
+/*WB*/
+
+.activitytag_wb_proyectos #actividad .content .header .title h3{
+   background: #50748A;
+}
+
+
 /**/
 
 /* Seccion Actividades */
@@ -2337,14 +2344,6 @@ td, th {
     background-color: transparent;
 }
 
-
-
-
-/*WB*/
-
-#actividad .content .wb .header .title h3{
-   background: #50748A;
-}
 
 /**/
 
