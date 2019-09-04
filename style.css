@@ -2045,6 +2045,29 @@ td, th {
 /*TAGS*/
 
 /*Tag verde*/
+
+.activitytag_verde_proyectos #actividad .content .header .title h3{
+   background: #556F35;
+}
+
+.activitytag_verde_proyectos .bck-title-1{
+   color: #556F35;
+}
+
+.activitytag_verde_proyectos .bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #556F35;
+    padding: 12px;
+    padding-left: 25px;
+}
+
+.activitytag_verde_proyectos .bck-box.bck-box-5{
+    padding: 10px;
+    background-color: #556f3526;
+}
+
 .activitytag_verde_proyectos .bck-box.bck-box-3 {
    border: 3px dotted #556F35;
 }
@@ -2058,8 +2081,6 @@ td, th {
 .activitytag_verde_proyectos .bck-box.bck-box-3 .bck-title {
     color: #556F35;
 }
-
-/**/
 
 .activitytag_verde_proyectos .bck-box.bck-box-4 {
    border: 3px dotted #556F35;
@@ -2082,6 +2103,10 @@ td, th {
 
 /*Tag negra*/
 
+.activitytag_negra_proyectos #actividad .content .header .title h3{
+   background: #333;
+}
+
 .activitytag_negra_proyectos .bck-box.bck-box-3 {
    border: 3px dotted #000000;
 }
@@ -2095,8 +2120,6 @@ td, th {
 .activitytag_negra_proyectos .bck-box.bck-box-3 .bck-title {
     color: #000000;
 }
-
-/**/
 
 .activitytag_negra_proyectos .bck-box.bck-box-4 {
    border: 3px dotted #000000;
@@ -2128,8 +2151,6 @@ td, th {
 .activitytag_gold_proyectos .bck-box.bck-box-3 .bck-title {
     color: #E2C95F;
 }
-
-/**/
 
 .activitytag_gold_proyectos .bck-box.bck-box-4 {
    border: 3px dotted #E2C95F;
@@ -2180,8 +2201,6 @@ td, th {
     color: #385963;
 }
 
-/**/
-
 .activitytag_azul_proyectos .bck-box.bck-box-4 {
    border: 3px dotted #385963;
 }
@@ -2198,6 +2217,87 @@ td, th {
 
 .activitytag_azul_proyectos .bck-enfasis-8 {
     background-color: #385963;
+}
+
+/*Tag verde claro*/
+
+.activitytag_verdeclaro_proyectos #actividad .content .header .title h3{
+   background: #00943C;
+}
+
+.activitytag_verdeclaro_proyectos .bck-title-1{
+   color: #00943C;
+}
+
+.activitytag_verdeclaro_proyectos .bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #00943C;
+    padding: 12px;
+    padding-left: 25px;
+}
+
+.activitytag_verdeclaro_proyectos .bck-box.bck-box-5 {
+    padding: 10px;
+    background-color: #00943c40;
+    top: -20px;
+}
+
+/*tag rojo*/
+
+.activitytag_rojo_proyectos #actividad .content .header .title h3{
+   background: #D73534;
+}
+
+.activitytag_rojo_proyectos .bck-title-1{
+   color: #D73534;
+}
+
+.activitytag_rojo_proyectos .bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #333;
+    padding: 12px;
+    padding-left: 25px;
+}
+
+.activitytag_rojo_proyectos .bck-box.bck-box-5{
+    padding: 10px;
+    background-color: #d7353430;
+    top: -20px;
+}
+
+
+/*activity tag morado*/
+
+.activitytag_morado_proyectos #actividad .content .header .title h3{
+   background: #853F57;
+}
+
+.activitytag_morado_proyectos .bck-title-1 {
+    color: #853F57;
+    font-size: 2.3rem;
+    padding-bottom: 5px;
+    margin-left: 0;
+}
+
+.activitytag_morado_proyectos .bck-title-preparate{
+    background: #853F57;
+}
+
+
+.activitytag_morado_proyectos .bck-box.bck-box-5{
+    background-color: #853f5754;
+
+}
+
+
+/*tag naranja*/
+
+.activitytag_naranja_proyectos #actividad .content .header .title h3{
+   background: #E07C3E;
 }
 
 /**/
@@ -2237,167 +2337,7 @@ td, th {
     background-color: transparent;
 }
 
-/**/
 
-/*rojo*/
-
-#actividad .content .rojo .header .title h3{
-   background: #D73534;
-}
-
-.rojo .bck-title-1{
-   color: #D73534;
-}
-
-.rojo .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #333;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.rojo .bck-box.bck-box-5{
-    padding: 10px;
-    background-color: #d7353430;
-    top: -20px;
-}
-
-
-/**/
-
-
-
-
-
-
-
-
-/**/
-
-
-/*verdoso*/
-
-#actividad .content .verdoso .header .title h3{
-   background: #556F35;
-}
-
-.verdoso .bck-title-1{
-   color: #556F35;
-}
-
-.verdoso .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #556F35;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.verdoso .bck-box.bck-box-5{
-    padding: 10px;
-    background-color: #556f3526;
-    top: -20px;
-}
-
-/**/
-
-/*activity tag verdoso*/
-
-.activitytag_verde_proyectos #actividad .content .header .title h3{
-   background: #556F35;
-}
-
-.activitytag_verde_proyectos .bck-title-1{
-   color: #556F35;
-}
-
-.activitytag_verde_proyectos .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #556F35;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.activitytag_verde_proyectos .bck-box.bck-box-5{
-    padding: 10px;
-    background-color: #556f3526;
-}
-
-
-/*verde*/
-
-#actividad .content .verde .header .title h3{
-   background: #00943C;
-}
-
-.verde .bck-title-1{
-   color: #00943C;
-}
-
-.verde .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #00943C;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.verde .bck-box.bck-box-5 {
-    padding: 10px;
-    background-color: #00943c40;
-    top: -20px;
-}
-
-/**/
-
-
-/*NEGRO*/
-
-#actividad .content .negro .header .title h3{
-   background: #333;
-}
-
-/**/
-
-/*naranja*/
-
-#actividad .content .naranja .header .title h3{
-   background: #E07C3E;
-}
-
-/**/
-
-
-/*morado*/
-
-#actividad .content .morado .header .title h3{
-   background: #853F57;
-}
-
-.morado .bck-title-1 {
-    color: #853F57;
-    font-size: 2.3rem;
-    padding-bottom: 5px;
-    margin-left: 0;
-}
-
-.morado .bck-title-preparate{
-    background: #853F57;
-}
-
-
-.morado .bck-box.bck-box-5{
-    background-color: #853f5754;
-
-}
-
-/**/
 
 
 /*WB*/
