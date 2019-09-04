@@ -216,10 +216,13 @@ body {
     margin-left: 10px;
 }
 
+/*
+
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, 
 #book-index #indice .units ul li.active a {
     background: #31A2C7;
 }
+*/
 
 
 #book-index .col-main {
@@ -282,12 +285,15 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover,
     background: #31A2C7;
 }
 
+/*
+
 #indice .units ul li.hover:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
     background: #31a2c775;
 }
 
+*/
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
