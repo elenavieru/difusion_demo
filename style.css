@@ -56,6 +56,43 @@ b, strong {
 
 /*General */
 
+#book-index #indice .units ul li a .title {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/*arreglo input*/
+
+.texto_curso .droppable-container {
+    display: inherit;
+}
+
+/*Input Blanco*/
+
+.input_blanco .slide_main .html-book input {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+/*logo*/
+
+.libro-left ul li .title:before {
+    content: "";
+    background-size: contain;
+    top: 3px;
+    background-image: url(imagenes_difusion/thespanishhub_logo.png) !important;
+    position: fixed;
+    width: 80px;
+    height: 40px;
+    background-repeat: no-repeat;
+    left: 50%;
+    margin-left: -40px;
+}
+
 /*video*/
 .vjs-poster{
     background-color: #fff;
@@ -140,7 +177,15 @@ body {
 
 
 /*INDICE LATERAL*/
-body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #book-index #indice .units ul li.active a {
+
+#indice .units ul li:not(.add) a .title {
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, 
+#book-index #indice .units ul li.active a {
     background: #31A2C7;
 }
 
@@ -167,11 +212,11 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
     color: #fff;
     background: transparent;
     float: left;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 700;
     line-height: 34px;
     padding: 5px 20px;
-    height: 50px;
+    height: 88px;
     margin: 5px 140px 20px 8px;
     overflow: hidden;
     z-index: 1;
@@ -187,6 +232,7 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 
 #book-index #indice .unit-content .actividades .item .title {
     font-weight: 400;
+    font-size: 14px;
 }
 
 #indice .unit-content .actividades .item .nota {
@@ -208,6 +254,13 @@ body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #bo
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:hover:not(.disabled) {
     background: #31a2c775;
+}
+
+
+body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
+    font-size: 14px;
+    font-weight: 400;
 }
 
 #book-index #indice .unit-content a,
@@ -913,14 +966,13 @@ body:not(.edit) .slider-indicators {
 }
 
 
-/*
+
 #actividad .content .cke_contents .bck-ol-1 li:before, 
 #actividad .content .texto_curso .bck-ol-1 li:before, 
 #actividad .popover-content .bck-ol-1 li:before, 
 #actividad .content .workspace ul li .bck-ol-1 li:before {
      margin-left: -13px;
 }
-*/
 
 
 #actividad .content .cke_contents .bck-ol-1 li:before,
@@ -1257,6 +1309,8 @@ body:not(.edit) .slider-indicators {
     left: -22px;
 }
 
+
+
 .bck-box-5 .bck-box-4 .bck-title {
     padding: 10px 25px;
     border: 0px;
@@ -1392,6 +1446,27 @@ body:not(.edit) .slider-indicators {
     font-size: 2.2rem;
 }
 
+/*Arreglos cajas*/
+.bck-box-5  .bck-box-1 .bck-title {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: left;
+    background-color: #808080;
+    padding: 10px;
+    padding-left: 70px;
+}
+
+.bck-box-1 .bck-content .bck-box-4 .bck-title {
+    padding: 10px 25px;
+    border: 0px;
+    color: #9D9D9C;
+    font-size: 1.8rem;
+    font-weight: bold;
+    background: transparent;
+}
+
+
 /*CAJA POP-UP*/
 
 .info-popover .popover-title:before, .popover-template .popover-title:before {
@@ -1434,6 +1509,11 @@ body:not(.edit) .slider-indicators {
     -moz-transition: all ease-in-out .5s;
     transition: all ease-in-out .5s;
     cursor: pointer;
+}
+
+.info-template .info-title.shown {
+    height: auto;
+    margin: 0 3px 12px 0;
 }
 
 .info-template .info-title.shown:before {
