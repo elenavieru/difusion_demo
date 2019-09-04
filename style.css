@@ -2277,15 +2277,15 @@ td, th {
 
 /*activity tag azul oscuro*/
 
-.activitytag_azuloscuro_proyectos #actividad .content .header .title h3{
+.activitytag_azul_proyectos #actividad .content .header .title h3{
    background: #3B5A65;
 }
 
-.activitytag_azuloscuro_proyectos .bck-title-1{
+.activitytag_azul_proyectos .bck-title-1{
    color: #3B5A65;
 }
 
-.activitytag_azuloscuro_proyectos .bck-title-preparate{
+.activitytag_azul_proyectos .bck-title-preparate{
     color: #fff;
     font-size: 2.1rem;
     font-weight: bold;
