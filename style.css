@@ -2148,6 +2148,24 @@ td, th {
 /**/
 
 /*Tag azul*/
+
+.activitytag_azul_proyectos #actividad .content .header .title h3{
+   background: #3B5A65;
+}
+
+.activitytag_azul_proyectos .bck-title-1{
+   color: #3B5A65;
+}
+
+.activitytag_azul_proyectos .bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #3B5A65;
+    padding: 12px;
+    padding-left: 25px;
+}
+
 .activitytag_azul_proyectos .bck-box.bck-box-3 {
    border: 3px dotted #385963;
 }
@@ -2250,55 +2268,10 @@ td, th {
 /**/
 
 
-/*azul oscuro*/
 
-#actividad .content .azuloscuro .header .title h3{
-   background: #3B5A65;
-}
 
-.azuloscuro .bck-title-1{
-   color: #3B5A65;
-}
 
-.azuloscuro .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #3B5A65;
-    padding: 12px;
-    padding-left: 25px;
-}
 
-.verdoso .bck-box.bck-box-5{
-    padding: 10px;
-    background-color: #556f3526;
-    top: -20px;
-}
-
-/*activity tag azul oscuro*/
-
-.activitytag_azul_proyectos #actividad .content .header .title h3{
-   background: #3B5A65;
-}
-
-.activitytag_azul_proyectos .bck-title-1{
-   color: #3B5A65;
-}
-
-.activitytag_azul_proyectos .bck-title-preparate{
-    color: #fff;
-    font-size: 2.1rem;
-    font-weight: bold;
-    background: #3B5A65;
-    padding: 12px;
-    padding-left: 25px;
-}
-
-.verdoso .bck-box.bck-box-5{
-    padding: 10px;
-    background-color: #556f3526;
-    top: -20px;
-}
 
 
 /**/
@@ -2323,8 +2296,36 @@ td, th {
     padding-left: 25px;
 }
 
+.verdoso .bck-box.bck-box-5{
+    padding: 10px;
+    background-color: #556f3526;
+    top: -20px;
+}
+
 /**/
 
+/*activity tag verdoso*/
+
+.activitytag_verde_proyectos #actividad .content .header .title h3{
+   background: #556F35;
+}
+
+.activitytag_verde_proyectos .bck-title-1{
+   color: #556F35;
+}
+
+.activitytag_verde_proyectos .bck-title-preparate{
+    color: #fff;
+    font-size: 2.1rem;
+    font-weight: bold;
+    background: #556F35;
+    padding: 12px;
+    padding-left: 25px;
+}
+
+.activitytag_verde_proyectos .bck-box.bck-box-5{
+    padding: 10px;
+    background-color: #556f3526;
 
 
 
